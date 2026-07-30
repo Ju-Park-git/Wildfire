@@ -51,3 +51,11 @@ To address this, we trained a baseline **Logistic Regression** model using `clas
 ├── wildfire_eda_overview.png          # Generated EDA multi-panel visualization
 ├── model_evaluation_metrics.png       # Generated confusion matrix and PR curve
 └── README.md                          # Executive project report
+
+
+## Data Source & Attribution
+* **Dataset:** US Wildfire Data with Meteorological & Vegetation Attributes
+* **Source / Platform:** Kaggle (`capcloudcoder/us-wildfire-data-plus-other-attributes`)
+* **Original Data Providers:** 
+  * Wildfire Incident Logs: USDA Forest Service / Short, Karen C. (1.88 Million US Wildfires Dataset)
+  * Meteorological & Geospatial Data: NOAA / NCEI Climate Data Online & USGS Vegetation Cover
